@@ -1,0 +1,13 @@
+git status
+git add
+git commit -m ""
+git push
+
+npm init --yes     makes package.json
+npm install express --save  node modules
+
+
+npm init --yes
+npm i express
+npm install -g nodemon 
+npm install express --save
